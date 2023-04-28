@@ -38,7 +38,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
     <PackageReference Include="StackExchange.Exceptional.AspNetCore" Version="2.1.0" />
-    <PackageReference Include="Serenity.Net.Web" Version="6.0.8" />
+    <PackageReference Include="Serenity.Net.Web" Version="6.7.0" />
     <PackageReference Include="Serenity.Assets" Version="6.0.5" />
     <PackageReference Include="Serenity.Scripts" Version="6.0.8" />
     <PackageReference Include="Serenity.Demo.ThemeSamples" Version="6.0.5.1" />
